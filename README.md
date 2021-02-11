@@ -54,6 +54,18 @@ Hiện tại tôi đang dự định tìm hiểu thêm các lĩnh vực khác b�
 
 * **Cloud computing:** Google Cloud Platform
 
+## Experiences
+
+Đang làm việc tại [Công ty TNHH Giải pháp Công nghệ Thomi](https://thomi.com.vn/):
+
+* **Thời gian bắt đầu:** Tháng 9/2020
+
+* **Giới thiệu công ty:** Startup thành lập năm 2017, chuyên về giải pháp công nghệ, IoT
+
+* **Vai trò:** Backend developer, viết API cho chức năng mới và sửa các lỗi
+
+* **Sơ lược dự án:** App quản lý bán hàng online và app quản lý kho cho doanh nghiệp.
+
 ## Education
 
 Sinh viên khóa 2019 trường Đại học Lạc Hồng (LHU):
@@ -67,4 +79,3 @@ Sinh viên khóa 2019 trường Đại học Lạc Hồng (LHU):
 * **Hoạt động khác:** Viết bài chia sẻ kiến thức về SQL trên fanpage [Kinh nghiệm IT](https://www.facebook.com/groups/191536792235722)
 
 * Được nhận học bổng 100% trong nhiều năm liền
-
