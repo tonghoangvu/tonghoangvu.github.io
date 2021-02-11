@@ -53,3 +53,18 @@ Hiện tại tôi đang dự định tìm hiểu thêm các lĩnh vực khác b�
 * **Quản trị server:** Linux, Nginx, Proxy
 
 * **Cloud computing:** Google Cloud Platform
+
+## Education
+
+Sinh viên khóa 2019 trường Đại học Lạc Hồng (LHU):
+
+* **Chuyên ngành:** Công nghệ thông tin - Kỹ thuật phần mềm
+
+* **Điểm trung bình:** 9.45/10
+
+* **Đã tham gia:** Các cuộc thi về IT như EPICS 3, MEP, các nhóm học thuật JavaScript, Web
+
+* **Hoạt động khác:** Viết bài chia sẻ kiến thức về SQL trên fanpage [Kinh nghiệm IT](https://www.facebook.com/groups/191536792235722)
+
+* Được nhận học bổng 100% trong nhiều năm liền
+
