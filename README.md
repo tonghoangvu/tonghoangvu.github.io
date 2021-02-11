@@ -36,7 +36,7 @@ Ngoài ra tôi cũng có kiến thức tốt về:
 
 * **API design:** RESTful API
 
-* **Coding knowledge:** Design patterns, MVC, 3-tiers
+* **Coding knowledge:** OOP, Design patterns, MVC, 3-tiers
 
 Hiện tại tôi đang dự định tìm hiểu thêm các lĩnh vực khác bên dưới để nâng cao khả năng bản thân:
 
@@ -66,6 +66,8 @@ Hiện tại tôi đang dự định tìm hiểu thêm các lĩnh vực khác b�
 
 * **Sơ lược dự án:** App quản lý bán hàng online và app quản lý kho cho doanh nghiệp.
 
+* **Chi tiết tính năng:** Bán hàng offline, quản lý nhân viên, xuất báo cáo Excel, quản lý thu chi,...
+
 ## Education
 
 Sinh viên khóa 2019 trường Đại học Lạc Hồng (LHU):
@@ -79,3 +81,11 @@ Sinh viên khóa 2019 trường Đại học Lạc Hồng (LHU):
 * **Hoạt động khác:** Viết bài chia sẻ kiến thức về SQL trên fanpage [Kinh nghiệm IT](https://www.facebook.com/groups/191536792235722)
 
 * Được nhận học bổng 100% trong nhiều năm liền
+
+## Activities
+
+* Viết bài chia sẻ kiến thức trên [Kinh nghiệm IT](https://www.facebook.com/groups/191536792235722), [blog cá nhân](tonghoangvu.com) và [Viblo profile](https://viblo.asia/u/tonghoangvu)
+
+* Xem các bài viết, video về công nghệ trên Medium, Viblo, Dev.to
+
+* Thực hiện các side projects và chia sẻ lên [GitHub](https://github.com/tonghoangvu)
