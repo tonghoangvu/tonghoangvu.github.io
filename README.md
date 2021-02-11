@@ -12,6 +12,8 @@ Tôi là lập trình viên Java chuyên về mảng Backend. Tôi đã làm vi�
 
 **Linkedin:** [https://linkedin.com/in/tonghoangvu](https://www.linkedin.com/in/tonghoangvu/)
 
+**GitHub:** [https://github.com/tonghoangvu](https://github.com/tonghoangvu)
+
 ## Technical skills
 
 Những kĩ năng chính của tôi:
