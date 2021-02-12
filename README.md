@@ -1,6 +1,8 @@
-# tonghoangvu.github.io
+# Tong Hoang Vu's CV
 
 Tôi là lập trình viên Java chuyên về mảng Backend. Tôi đã làm việc được 6 tháng trên dự án Java sử dụng Spring Boot và MongoDB. Ngoài ra, tôi cũng có kiến thức tốt về Web programming và lập trình nói chung.
+
+Mục tiêu tương lai của tôi là có thêm được kiến thức, kinh nghiệm và kĩ năng thực tế, hướng tới vị trí Technical Leader.
 
 ## Thông tin liên hệ
 
